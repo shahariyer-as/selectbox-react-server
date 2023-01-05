@@ -1,0 +1,14 @@
+[
+  { "selector": "Manufacturing" },
+  { "selector": "Construction materials" },
+  { "selector": "Electronics and Optics" },
+  { "selector": "Food and Beverage" },
+  { "selector": "Bakery & confectionery products" },
+  { "selector": "Beverages" },
+  { "selector": "Fish & fish products " },
+  { "selector": "Meat & meat products" },
+  { "selector": "Milk & dairy products " },
+  { "selector": "Other" },
+  { "selector": "Sweets & snack food" },
+  { "selector": "Bathroom/sauna " }
+]
